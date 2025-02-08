@@ -1,4 +1,7 @@
 # ExamenPC_AlexParejaMateos
+
+EN EL PAQUETE Ejercicio1 SE ENCUENTRA LA SOLUCIÓN COMPLETA DE LA PARTE PRÁCTICA DEL EXAMEN. LA PARTE TEÓRICA SE DESARROLLA A CONTINUACIÓN: 
+
 Parte teórica. Responda razonadamente a las siguientes preguntas.
 
 1.	Describa dos modelos de concurrencia comunes en la programación paralela y explique las diferencias principales entre ellos:
